@@ -3,6 +3,10 @@
 ## A beginner's work-through for the purposes of learning more about vector manipulation via Gosu.
 
 ### Run the bat.
-(If you're not Gary Numan) <br>
+<br>
 clone the repo <br>
-terminal: `bundle exec ruby game.rb`
+terminal:
+`bundle install`
+`bundle exec ruby game.rb` <br> 
+
+music: airlane - by Gary Numan
