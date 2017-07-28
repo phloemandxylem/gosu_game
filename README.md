@@ -6,7 +6,7 @@
 <br>
 clone the repo <br>
 terminal: <br>
-` bundle install` <br>
-` bundle exec ruby game.rb` <br>
+`bundle install` <br>
+`bundle exec ruby game.rb` <br>
 
 music: airlane - by Gary Numan
