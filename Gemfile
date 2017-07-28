@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'gosu'
-gem 'rspec'
+gem 'gosu', '~> 0.8.7.2'
+gem 'rspec', '~> 3.2'
