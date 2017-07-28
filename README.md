@@ -7,6 +7,6 @@ clone the repo <br>
 `bundle install` <br>
 `bundle exec ruby game.rb`
 
-To start press space. 
+To start press space.
 
-music: airlane - by Gary Numan
+music: Ursa Major - by Polarkreis 18
